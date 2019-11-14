@@ -1,0 +1,28 @@
+Description of Results of Analysis of Weather by Latitude
+
+1.  By examining the plot of the Latitude vs. Temperature it is clear that the closer the city is to 
+    the equator, the higher the temperatue is likely to be.  As we move away from the equater in both
+    the northern and southern directions, the temperature decreases.  This plot is also intersting in
+    that is shows few results below -50 degrees latitude.  This is because there are very few cities
+    below -50 degrees latitude, since it is mostly open ocean or sparsely populated Antarctica.  Above
+    +50 degrees latitude, there are large parts of North America, Europe, and Asia, thus many cities
+    in the sample.
+
+2. Based on the chart of Humidity vs Latitude, there does not appear to be much of relatonship
+   between the humidity and latitude.  However, we have to keep in mind that this is based on just
+   a snapshot of weather on a particular day and my not be representative of overall humidity patterns.
+   For example, if it were raining on the day this data was pulled in a particular city that generally has 
+   low humidity, it would show that the humidity was high.  I suspect that if we looked at an 
+   annual average instead of just a snapshot, we might see more of a relationship.
+
+3. Based on chart of Cloudiness vs Latitude, there also does not appear to be much of a relationship
+   However, as mentioned above, I believe that this may be due to just looking at a single snapshot of
+   the weather on a particular day.  I believe that if we looked at an annual avergage, we would see
+   a relationship.  
+
+4. On November 14th 2019 I would not have wanted to be in Tasiilaq, Greenland.  Although, the temperature
+   of around 33 degrees Fahrenheit was not too bad compared to other cities in the sample, the wind speed
+   of over 50 mph would have made for a very unpleasant day if you needed to go outside. However, based
+   on the website below, I believe it is a place that I would like to visit during the summer.    
+
+   https://visitgreenland.com/destinations/tasiilaq/
