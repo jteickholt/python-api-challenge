@@ -1,6 +1,22 @@
 ,city,country,latitude,temp,clouds,windspd,humidity
-0,Rikitea,PF,-23.12,72.72,70,25.32,82
-1,Ushuaia,AR,-54.81,51.8,75,18.34,57
-2,Shenjiamen,CN,29.96,68.18,66,14.12,73
-3,Punta Arenas,CL,-53.16,55.2,75,6.93,58
-4,Skjervoy,NO,70.03,32.0,40,24.16,73
+0,Port Alfred,ZA,-33.59,64.99,72,1.99,90
+1,Egvekinot,RU,66.32,9.52,40,12.71,94
+2,Mahebourg,MU,-20.41,77.0,75,8.05,73
+3,Cape Town,ZA,-33.93,71.01,40,24.16,68
+4,Buchanan,LR,5.88,91.4,75,8.68,59
+5,Tessalit,ML,20.2,85.12,0,1.03,8
+6,Tuktoyaktuk,CA,69.44,-7.64,73,6.2,98
+7,Saldanha,ZA,-33.01,67.3,0,26.15,73
+8,Ushuaia,AR,-54.81,53.6,75,4.7,76
+9,Mar del Plata,AR,-46.43,68.4,73,10.65,35
+10,Kapaa,US,22.08,71.6,1,6.93,94
+11,Arraial do Cabo,BR,-22.97,77.0,90,17.22,78
+12,Carnarvon,AU,-24.87,73.4,75,8.05,94
+13,Rikitea,PF,-23.12,70.95,57,22.82,79
+14,Port Shepstone,ZA,-30.74,73.24,100,6.49,75
+15,Umm Lajj,SA,25.02,80.55,78,6.93,55
+16,Bambous Virieux,MU,-20.34,77.0,75,8.05,73
+17,Cayenne,GF,4.94,91.4,20,5.82,52
+18,Great Yarmouth,GB,52.61,46.0,40,5.82,100
+19,Hermanus,ZA,-34.42,70.0,84,4.0,97
+20,San Fernando,MX,24.85,54.09,84,10.49,85
