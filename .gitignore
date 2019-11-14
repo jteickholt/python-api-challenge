@@ -1,3 +1,3 @@
 # ignore the following files
-python-api-challenge/api_keys.py
-python-api-challenge/__pycache__/
+api_keys.py
+__pycache__/api_keys.cpython-37.pyc
