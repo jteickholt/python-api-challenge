@@ -4,16 +4,16 @@
 
 ### This repo contains the following files:
 
-#### output_data\cites.csv:  Output of the list of cities along with the weather data.
+#### 1.  output_data\cites.csv:  Output of the list of cities along with the weather data.
 
-#### Results_Summary.txt:  Descriptive summary of the results of the analysis.
+#### 2.  Results_Summary.txt:  Descriptive summary of the results of the analysis.
 
-#### WeatherPy.ipynb:  Jupyter Notebook that contains the Python code to call the API's, perform analysis, and create visualisations.
+#### 3.  WeatherPy.ipynb:  Jupyter Notebook that contains the Python code to call the API's, perform analysis, and create visualisations.
 
-#### clouds_plot.png:  Plot of cloud cover vs. latitude (output from WeatherPy.ipynb).
+#### 4.  clouds_plot.png:  Plot of cloud cover vs. latitude (output from WeatherPy.ipynb).
 
-#### humidity_plot.png:  Plot of humidty vs. latitude (output from WeatherPy.ipynb).
+#### 5.  humidity_plot.png:  Plot of humidty vs. latitude (output from WeatherPy.ipynb).
 
-#### temperature_plot.png:  Plot of temperature vs. latitude (output from WeatherPy.ipynb).
+#### 6.  temperature_plot.png:  Plot of temperature vs. latitude (output from WeatherPy.ipynb).
 
-#### wind_plot.png:  Plot of wind speed vs. latutude (output from WeatherPy.ipynb)
+#### 7.  wind_plot.png:  Plot of wind speed vs. latutude (output from WeatherPy.ipynb)
